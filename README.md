@@ -11,4 +11,4 @@ my data science and analytics projects
 reach out to me at monthonbaon@gmail.com
 
 ## Image
-![monthon]([https://www.clicdata.com/wp-content/uploads/2023/04/home-data-visualization-icon.jpg] )
+![monthon](https://www.clicdata.com/wp-content/uploads/2023/04/home-data-visualization-icon.jpg )
